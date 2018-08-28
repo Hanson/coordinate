@@ -1,0 +1,16 @@
+{
+    "name": "hanson/coordinate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hanson",
+            "email": "h@hanc.cc"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hanson\\Coordinate\\": "src/"
+        }
+    }
+}
